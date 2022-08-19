@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\bin\Debug\net6.0\Fiap.Exercicio.exe
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\bin\Debug\net6.0\Fiap.Exercicio.deps.json
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\bin\Debug\net6.0\Fiap.Exercicio.runtimeconfig.json
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\bin\Debug\net6.0\Fiap.Exercicio.dll
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\bin\Debug\net6.0\Fiap.Exercicio.pdb
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.AssemblyInfo.cs
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.dll
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\refint\Fiap.Exercicio.dll
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.pdb
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\Fiap.Exercicio.genruntimeconfig.cache
+C:\Users\logonrmlocal\Source\Repos\2TDSR\Fiap.Aula02\Fiap.Exercicio\obj\Debug\net6.0\ref\Fiap.Exercicio.dll
